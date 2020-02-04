@@ -1,0 +1,132 @@
+body{
+    background-color: #1e2842;
+  }
+  
+  main {
+  width: 960px;
+  margin: 0 auto;
+    
+  }
+  
+  #header {
+  width: 960px;
+  height: 90px; 
+  display:flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  
+  }
+  
+  #bio{
+  display:flex;
+  margin-bottom: 30px;
+  }
+  
+  #bio-choose{
+  width:100%;
+  margin: 0px 0px 0px 20px;
+  }
+  
+  #name-date{
+  width: 100%;
+  display: flex;
+  justify-content:space-between;
+  margin-bottom: 15px;
+        
+  }
+  #intrest{
+    height:190px;
+    margin: 20px 0px 20px 0px;
+  }
+  .profile-picture{
+   height:190px; 
+   margin:0px;
+  }
+  
+  #choose-list{
+  padding:8px;
+  background-color:#555;
+  }
+  
+  ul {
+    padding-left:15px;
+    color:#ccc;
+  }
+  
+  #intrest{
+  height: 115px; 
+  }
+  
+  #excited-choice {
+    background-color: #555;
+    margin-top:15px;
+    padding: 10px;
+  }
+  
+  #tech{
+  display: flex;
+  justify-content:space-between;
+  }
+  
+  #footer{
+  height: 40px; 
+  }
+  
+  .fit-picture{
+   height:90px;
+  }
+  
+  p {
+    margin:0px;
+  }
+  
+  figure{
+    text-align: center;
+    margin:0px;
+  }
+  
+  figure> img{
+    max-height:180px;
+    max-width:180px;
+   
+  
+  }
+  
+  figcaption{
+    color:#ccc;
+    background-color: rgba(0,0,0,.5);
+    max-width: 180px;
+    position: relative;
+    top: -20px;
+  }
+  
+  footer{
+    text-align:center;
+  }
+  
+  h2,h3{
+    color:#a6daf9;
+    margin: 0px;
+   font: 1.2em "fira Sans", sans-serif;
+  }
+  h2{
+    font-weight:bold;
+  }
+  P{
+    color:#ccc;
+  }
+  h4{
+  color:#a6daf9;
+  margin: 0px;
+  font: 1em "fira Sans", sans-serif;
+  }
+  
+  
+  time{
+    color:#fff;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  
+  
